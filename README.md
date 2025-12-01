@@ -38,14 +38,6 @@ Le modèle entraîné reçoit une liste de mots-clés en entrée et génère aut
 - Qualité: Descriptions naturelles et cohérentes
 - Flexibilité: Adaptable à différents domaines (IT, Marketing, Finance, etc.)
 
-## ✨ Avantages
 
-- **Gain de temps**: Génération instantanée vs rédaction manuelle
-- **Cohérence**: Style professionnel uniforme
-- **Personnalisation**: Basé sur vos mots-clés spécifiques
-- **Évolutif**: S'améliore avec plus de données d'entraînement
-- **Multilingue**: Peut être entraîné sur différentes langues
-
----
 
 *Projet développé avec GPT-2 et Transformers*
